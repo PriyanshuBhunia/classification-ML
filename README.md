@@ -1,5 +1,6 @@
 # classification-ML
 # Deep Learning Assignment 1
+Analysis: https://docs.google.com/document/d/15V9lhkBK7gbBFhssEB9SuGM4M21wIDUjYCjd1AzyVA8/edit?tab=t.0
 
 This repository contains implementations of MLP and CNN models trained and evaluated on the following datasets:
 
